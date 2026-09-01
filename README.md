@@ -54,8 +54,9 @@ Desenvolvendo o app no lovable
 
 
 
+FAST CONTROLE
 
-Fast Controle
+link:https://chat-finance-buddy-10.lovable.app
 
 Descrição  
 Fast Controle é um aplicativo de finanças pessoais com interação via chat.  
@@ -73,19 +74,10 @@ Público-Alvo
 . Iniciantes em organização financeira  
 . Jovens, idosos e pessoas com necessidades especiais  
 
-MVP  
-. Tela de Boas-Vindas  
-. Chat Financeiro  
-. Tela de Metas com gráficos  
-. Relatórios básicos  
-. Alertas e notificações  
-. Configurações iniciais  
+Reflexão final:
 
-Sucesso esperado  
-. Registro de gastos em menos de 10 segundos  
-. Relatórios compreendidos sem ajuda externa  
-. Metas definidas e acompanhadas com clareza  
-. Inclusão garantida para diferentes perfis de usuários  
+O desenvolvimento de um App com o auxilio de IA foi muito interessante, rápido e descomplicado. O uso de IA no processo de desenvolvimento foi fantástico porque a IA praticamente desenvolve e programa tudo sozinha. O meu trabalho foi apenas explicar o que eu queria que a IA fizesse, mais sempre conferindo os resultados preliminares ajustando com ela quando necessário.  
+Claro que nem tudo funcionou de primeira como o esperado . Algumas funcionalidades como o histórico de conversas , botão para inserir dados via voz, recomendações automáticas não ficaram como o esperado . Ainda faltou alguns ajustes pendente. Porem as cores do app , o painel de controle com os dashboard funcionando , a facilidade de inserir as informações dos gastos ficaram bem legal. Foi muito divertido e um ganho de conhecimento muito grande aprender a utilizar IA na pratica . 
 
 
 
