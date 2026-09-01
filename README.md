@@ -1,4 +1,4 @@
-PRD – Fast Controle (App de Finanças Pessoais Conversacional)
+PRD – Fast Controle (App de Finanças Pessoais )
 
 1. Objetivo  
 Desenvolver um App de finanças pessoais para facilitar o controle financeiro por meio de interações em chat, sem formulários complexos, oferecendo recomendações automáticas, relatórios amigáveis e acessibilidade universal.
