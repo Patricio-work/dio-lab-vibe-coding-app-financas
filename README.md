@@ -1,3 +1,5 @@
+Desenvolvimento de um App de finanças pessoais com o uso de IA.
+
 PRD – Fast Controle (App de Finanças Pessoais )
 
 1. Objetivo  
